@@ -18,8 +18,7 @@ Um grande cliente do segmento solicitou para que a consultoria desenvolvesse um 
 ---
 
 # Objetivos:
- - Criar um dashboard interativo com a ferramenta a nossa escolha
- - Com insights relevantes sobre a variação do preço do petróleo com situações geopolíticas, crises econômicas, demanda global etc. ;
+ - Criar um dashboard interativo com a ferramenta a nossa escolha com insights relevantes sobre a variação do preço do petróleo com situações geopolíticas, crises econômicas, demanda global etc. ;
  - Obrigatoriedade em conter pelo menos 4 insights;
  - Modelo de ML que faça a previsão do preço do petróleo diariamente (deve conter o código);
  - Criar um plano para fazer o deploy em produção do modelo com as ferramentas que são necessárias;
