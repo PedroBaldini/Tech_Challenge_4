@@ -1,10 +1,7 @@
 import streamlit as st
-import pandas as pd
 import joblib
-from prophet import Prophet
 from prophet.plot import plot_plotly
-from datetime import datetime, timedelta
-import plotly.graph_objs as go
+# import plotly.graph_objs as go
 
 model = joblib.load('prophet_model_final.pkl')
 
