@@ -1,5 +1,6 @@
 import streamlit as st
 import joblib
+import prophet
 from prophet.plot import plot_plotly
 # import plotly.graph_objs as go
 
